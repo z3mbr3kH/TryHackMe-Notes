@@ -67,7 +67,7 @@ While SMB is useful, it has also been a frequent target for attackers. Below are
 
 ## ✍️ Authors & Contributions
 
-This document was generated with help from AI and curated by Leith to educate and support secure software development practices.
+This document was created to educate and support secure software development practices.
 
 ---
 
