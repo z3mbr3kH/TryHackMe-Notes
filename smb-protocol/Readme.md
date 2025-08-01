@@ -53,7 +53,7 @@ While SMB is useful, it has also been a frequent target for attackers. Below are
 - **Remote Code Execution (RCE):** Crafted packets or malicious SMB requests allow attackers to run arbitrary code.
 - **Privilege Escalation:** Exploiting flaws in access control mechanisms to gain elevated privileges.
 - **Information Disclosure:** Weak authentication or misconfigured shares may leak sensitive information.
-
+-**SMB signing disabled:** Allowing unauthenticated users to read files from the "shares" share—potentially exposing sensitive data without login;
 ---
 
 ## 🧠 Recommendations
